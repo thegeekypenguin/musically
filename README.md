@@ -5,7 +5,7 @@ Team Name: Trinity
 
 ## Team Members
 - [@Utkrisht Singh](https://github.com/utkrisht5)
-- [@Shubham Kushwaha](https://github.com/Shubham-20205157)
+- [@Shubham Sahay](https://github.com/thegeekypenguin)
 - [@Satyam Agarawal](https://github.com/Satyam107git)
 
 ## Proposed Features
